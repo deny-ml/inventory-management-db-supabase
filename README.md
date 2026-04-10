@@ -20,11 +20,11 @@ Proyek ini dibangun menggunakan **Supabase (PostgreSQL)** untuk mendemonstrasika
 
 ### Screenshot Project
 
-![Supabase Overview](screenshots/1-supabase-overview.png)
-![Table Structure](screenshots/2-table-structure.png)
-![Trigger Before & After](screenshots/3-trigger-before-after.jpg)
-![Low Stock View](screenshots/4-low-stock-view.png)
-![Monthly Report Query](screenshots/5-monthly-report-query.png)
+<image-card alt="Supabase Overview" src="screenshots/1-supabase-overview.png" ></image-card>
+<image-card alt="Table Structure" src="screenshots/2-table-structure.png" ></image-card>
+<image-card alt="Trigger Before & After" src="screenshots/3-trigger-before-after.jpg" ></image-card>
+<image-card alt="Low Stock View" src="screenshots/4-low-stock-view.png" ></image-card>
+<image-card alt="Monthly Report Query" src="screenshots/5-monthly-report-query.png" ></image-card>
 
 ### Cara Menjalankan Project
 1. Clone repository
