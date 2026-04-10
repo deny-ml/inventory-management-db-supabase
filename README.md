@@ -22,7 +22,7 @@ Proyek ini dibangun menggunakan **Supabase (PostgreSQL)** untuk mendemonstrasika
 
 ![Supabase Overview](screenshots/1-supabase-overview.png)
 ![Table Structure](screenshots/2-table-structure.png)
-![Trigger Before & After](screenshots/3-trigger-before-after.png)
+![Trigger Before & After](screenshots/3-trigger-before-after.jpg)
 ![Low Stock View](screenshots/4-low-stock-view.png)
 ![Monthly Report Query](screenshots/5-monthly-report-query.png)
 
